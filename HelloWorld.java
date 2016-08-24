@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class HelloWord {
+public class HelloWorld {
 
 	public static void main(String args[]) {
 	
